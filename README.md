@@ -8,8 +8,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NDK1195/article-preview-component)
-- Live Site URL: [Live site URL here](https://article-preview-component-pied-omega.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/NDK1195/base-apparel-coming-soon)
+- Live Site URL: [Live site URL here](https://base-apparel-coming-soon-psi-vert.vercel.app/)
 
 ### Built with
 
