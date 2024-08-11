@@ -69,7 +69,7 @@ function Email() {
       {/* submit button */}
       <button
         type="submit"
-        className="absolute right-0 top-0 z-10 flex h-12 w-16 items-center justify-center rounded-[28px] bg-button hover:opacity-50 hover:shadow-button lg:h-14 lg:w-[100px]"
+        className="absolute right-0 top-0 z-10 flex h-12 w-16 items-center justify-center rounded-[28px] bg-button shadow-button hover:opacity-50 lg:h-14 lg:w-[100px]"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="20">
           <path
