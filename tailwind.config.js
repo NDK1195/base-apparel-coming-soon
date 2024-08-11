@@ -6,6 +6,8 @@ export default {
       backgroundImage: {
         background: "linear-gradient(150deg, #FFF 0%, #FFF4F4 84.51%)",
         button: "linear-gradient(135deg, #F8BFBF 0%, #EE8B8B 100%)",
+        "hero-desktop": 'url("./images/hero-desktop.jpg")',
+        "hero-mobile": 'url("./images/hero-mobile.jpg")',
       },
       boxShadow: {
         button: "0px 15px 20px 0px rgba(198, 110, 110, 0.25)",
