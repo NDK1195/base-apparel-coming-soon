@@ -50,11 +50,11 @@ function App() {
         </svg>
       </div>
 
-      <div className="-z-20 flex flex-col items-center gap-16 bg-background lg:flex-row-reverse">
+      <div className="-z-20 flex flex-col items-center gap-16 bg-background lg:flex-row-reverse lg:items-start">
         {/* hero */}
         <div className="z-10 min-h-[250px] w-full bg-hero-mobile bg-cover bg-no-repeat lg:h-[800px] lg:max-w-[610px] lg:bg-hero-desktop"></div>
         {/* main content */}
-        <div className="z-10 px-8 pb-[92px] text-center text-desaturated-red lg:mx-auto lg:max-w-[445px] lg:text-left xl:p-0">
+        <div className="z-10 px-8 pb-[92px] text-center text-desaturated-red lg:mx-auto lg:mt-[232px] lg:max-w-[445px] lg:text-left xl:p-0">
           <h2 className="mb-4 text-[40px] font-light leading-[42px] tracking-[10.825px] lg:mb-8 lg:text-[64px] lg:leading-[64px] lg:tracking-[17.321px]">
             WE'RE{" "}
             <span className="font-semibold text-dark-grayish-red">
